@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Projet2SEG/static/css/main.1452abfd.css",
+    "main.js": "/Projet2SEG/static/js/main.0dd77228.js",
+    "static/media/Fifa23.jpg": "/Projet2SEG/static/media/Fifa23.a26621b2216e8ffb6351.jpg",
+    "static/media/Codwarzone2.jpg": "/Projet2SEG/static/media/Codwarzone2.dc68d078e5f2b44fd7a6.jpg",
+    "static/media/Minecraft.jpg": "/Projet2SEG/static/media/Minecraft.af361b9971f2cd266f29.jpg",
+    "static/media/RocketLeague.jpg": "/Projet2SEG/static/media/RocketLeague.9f84610e29826676c9e8.jpg",
+    "static/media/fakeconsole.jpg": "/Projet2SEG/static/media/fakeconsole.a5db20e377f6d0555788.jpg",
+    "index.html": "/Projet2SEG/index.html",
+    "main.1452abfd.css.map": "/Projet2SEG/static/css/main.1452abfd.css.map",
+    "main.0dd77228.js.map": "/Projet2SEG/static/js/main.0dd77228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1452abfd.css",
+    "static/js/main.0dd77228.js"
+  ]
+}
